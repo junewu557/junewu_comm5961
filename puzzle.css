@@ -1,0 +1,11 @@
+body {
+  padding-left: 12em;
+  padding-top: 10em;
+  color: lightblue;
+  background-color: lightpink;
+  font-family: fantasy;
+  font-size: 30px;
+  font-weight: bold;
+  border-style: dotted;
+  border-color: pink;
+}
